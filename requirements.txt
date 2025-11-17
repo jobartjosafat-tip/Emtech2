@@ -1,4 +1,4 @@
-tflite-runtime==2.15.0
-streamlit==1.29.0
-pillow==10.0.0
-numpy==1.23.5
+tflite-runtime==2.10.0
+streamlit==1.22.0
+pillow==9.5.0
+numpy==1.22.4
