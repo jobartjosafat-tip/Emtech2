@@ -1,4 +1,4 @@
-tensorflow==2.15.0
+tflite-runtime==2.15.0
 streamlit==1.29.0
-pillow==10.1.0
-numpy==1.26.2
+pillow==10.0.0
+numpy==1.23.5
